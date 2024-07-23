@@ -5,8 +5,7 @@ necessary.
 This file contains pointers to the code examples and main results from
 the paper:
 
-Formalising inductive and coinductive containers,
-
+Formalising inductive and coinductive containers
 -}
 
 -- The "--safe" flag ensures that there are no postulates or
